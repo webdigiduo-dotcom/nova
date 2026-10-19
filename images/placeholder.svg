@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Image unavailable">
+  <rect width="800" height="600" fill="#18181b"/>
+  <g fill="none" stroke="#b8975a" stroke-width="2" transform="translate(400 280)">
+    <path d="M0-70 70 0 0 70-70 0z"/>
+    <path d="M-23 33 0-23l23 56M-15 14h30"/>
+  </g>
+  <text x="400" y="410" fill="#b7b1a6" font-family="Georgia, serif" font-size="22" text-anchor="middle" letter-spacing="6">AURELIA ESTATES</text>
+</svg>
